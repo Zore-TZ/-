@@ -9,18 +9,20 @@ mod_lookup_key://ee6020aaf01f8421958ddff39ed742cc@steam_workshop:1142710/3740024
 mod_lookup_key://7e30f6bf4834ff73b2206f612e359d5b@steam_workshop:1142710/3740804696@1780896092/!@whc_cth_unit_wuh_7_sfo.pack
 mod_lookup_key://aa67d7dc8e855abe5361b00d75651c78@steam_workshop:1142710/3631989922@1766996785/warband_tgr.pack
 mod_lookup_key://f685571a69cff67c70a8f7963f83e505@steam_workshop:1142710/3432354032@1767413207/!!Pinkbee_DEER24_WWD_WUH_TLA_warband.pack
+mod_lookup_key://c323cb3e4584f7205622f003975eabb4@steam_workshop:1142710/2855270850@1779542801/sm0_recruit_defeated CN.pack
+mod_lookup_key://f5f9aa6fd3f1b4d8f6f2cb91f79969d2@steam_workshop:1142710/3608565164@1781013523/!!!!!!!COMBINE_ALL_CN.pack
 mod_lookup_key://be1f37528b895822ee825976b91c8e55@steam_workshop:1142710/3551303530@1779762247/!!!!MILKVCOCN.pack
 mod_lookup_key://77028308780d3d2a520ee8696dfed8b3@steam_workshop:1142710/3335001195@1779788614/!!currencies_all_cn.pack
-mod_lookup_key://bee8a322f83c1492868d64d6415b2273@steam_workshop:1142710/3608565164@1780927610/!!!!!!!COMBINE_ALL_CN.pack
 mod_lookup_key://5e11c78a18fa73394e15f7aa6f15f303@steam_workshop:1142710/3455553790@1780202855/!!wyccc_cn.pack
 mod_lookup_key://95e76e548d6c066c3b0bf834912b06a6@steam_workshop:1142710/3586751579@1771611978/just_good_babysitter_CNs.pack
+mod_lookup_key://d5d2374f44a0310d1aec5b4e8e71db67@steam_workshop:1142710/3454827228@1778047312/stompies_new_artefacts(schinese).pack
 mod_lookup_key://37bf1de1710754a3f12ccc540a4b4c90@steam_workshop:1142710/3008451029@1780927453/!!!!!!!cr_immortal_empires_expanded_cn.pack
 mod_lookup_key://3b47bab9241e1232555d13e2cec98601@steam_workshop:1142710/3642822104@1768964739/!!!!!!!!!landmark_comp_cn.pack
 mod_lookup_key://3130ca83781de37d3f3dbc522c9d6d8b@steam_workshop:1142710/3239114391@1751430909/helper_ui_cn.pack
-mod_lookup_key://926e8bed8808fe4a7420ba0fac2dc18d@steam_workshop:1142710/3249822509@1767096505/!!!!!ab_mixu_legendary_lords_cn.pack
-mod_lookup_key://49232fef4d44db3172d89f20c5afe706@steam_workshop:1142710/3204771393@1755506439/!FanmoMixCN.pack
 mod_lookup_key://cd9482e031889dac07073a9b6301b16c@steam_workshop:1142710/2880615587@1682081009/!!!3_legendary_mount_cn.pack
 mod_lookup_key://553c4cd1d01166fb9c70e4234603bcbb@steam_workshop:1142710/3405150777@1768306703/!!!151CN.pack
+mod_lookup_key://926e8bed8808fe4a7420ba0fac2dc18d@steam_workshop:1142710/3249822509@1767096505/!!!!!ab_mixu_legendary_lords_cn.pack
+mod_lookup_key://49232fef4d44db3172d89f20c5afe706@steam_workshop:1142710/3204771393@1755506439/!FanmoMixCN.pack
 mod_lookup_key://9f67de35440a09a07231a49b87db470e@steam_workshop:1142710/3622166379@1765504985/!!!cal_chinese_translations.pack
 mod_lookup_key://9847e3ecdceb55d233bf6e3f24e639f9@steam_workshop:1142710/3267626656@1748225553/CN_immortal_landmarks_IE_v1.pack
 mod_lookup_key://f7d7ac7365581d5151f9a5a570fec9eb@steam_workshop:1142710/3667865961@1771293478/MIXER Mixu s Unlocker chinese.pack
@@ -101,10 +103,8 @@ mod_lookup_key://927642bca2984f05b2995a2bddc97829@steam_workshop:1142710/2790733
 mod_lookup_key://20e02b5c7365aca30cc78fe7b46c121e@steam_workshop:1142710/2931087074@1766156381/inq_lol_hero.pack
 mod_lookup_key://e8aa761e42c6ee6668a86878ba3358cc@steam_workshop:1142710/2789857945@1780262751/ll_lore_3.pack
 mod_lookup_key://a370f8fb1a3ea1623ae99909849bee66@steam_workshop:1142710/2838885287@1777612757/mbmy.pack
-mod_lookup_key://c323cb3e4584f7205622f003975eabb4@steam_workshop:1142710/2855270850@1779542801/sm0_recruit_defeated CN.pack
 mod_lookup_key://8fe8e8550013c64f5c482a77cf6dc2c0@steam_workshop:1142710/2854819509@1779380362/sm0_recruit_defeated.pack
 mod_lookup_key://dfc7226853c3a1fe45b3379211db6a48@steam_workshop:1142710/2792727547@1779530589/speedyCamera.pack
-mod_lookup_key://d5d2374f44a0310d1aec5b4e8e71db67@steam_workshop:1142710/3454827228@1778047312/stompies_new_artefacts(schinese).pack
 mod_lookup_key://aa3d70e13aa07452fd57c617b30bd988@steam_workshop:1142710/2790444477@1780682231/stompies_new_artefacts.pack
 mod_lookup_key://2876cc83a5476413c4c5efeee8cd3ae7@steam_workshop:1142710/2926707659@1770636960/unlock_sfo_kill.pack
 mod_lookup_key://91108eb0e24f55bb058a08c50a23084a@steam_workshop:1142710/3140200173@1779375871/victory_conditions_overhaul.pack
