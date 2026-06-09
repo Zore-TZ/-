@@ -5,8 +5,8 @@ mod_lookup_key://8ede0539043073350a1671dc3f693327@steam_workshop:1142710/2801517
 mod_lookup_key://8ea182488a327c06e5e32de4a5950517@steam_workshop:1142710/3512848941@1779397703/@cth_units_tabletop.pack
 mod_lookup_key://269abf84386395989dba91561157913b@steam_workshop:1142710/3523574674@1752668802/@DEER24CTH_Reskin_No_officer.pack
 mod_lookup_key://99ea90b6d326b7def22aa8fa7fe95c0a@steam_workshop:1142710/2990520226@1779424604/@DEER24CTH_Reskin.pack
-mod_lookup_key://ee6020aaf01f8421958ddff39ed742cc@steam_workshop:1142710/3740024837@1781002255/!!DEER24Cathay_lite_sfo.pack
 mod_lookup_key://7e30f6bf4834ff73b2206f612e359d5b@steam_workshop:1142710/3740804696@1780896092/!@whc_cth_unit_wuh_7_sfo.pack
+mod_lookup_key://ee6020aaf01f8421958ddff39ed742cc@steam_workshop:1142710/3740024837@1781002255/!!DEER24Cathay_lite_sfo.pack
 mod_lookup_key://c323cb3e4584f7205622f003975eabb4@steam_workshop:1142710/2855270850@1779542801/sm0_recruit_defeated CN.pack
 mod_lookup_key://f5f9aa6fd3f1b4d8f6f2cb91f79969d2@steam_workshop:1142710/3608565164@1781013523/!!!!!!!COMBINE_ALL_CN.pack
 mod_lookup_key://be1f37528b895822ee825976b91c8e55@steam_workshop:1142710/3551303530@1779762247/!!!!MILKVCOCN.pack
@@ -28,6 +28,7 @@ mod_lookup_key://28db6e44b9c0371cac5ff9b4adffb501@steam_workshop:1142710/3032064
 mod_lookup_key://6f0ec047cea3d640ec00e37c5e663aaf@steam_workshop:1142710/3177330606@1773977404/!!!new_paopaochahu_cn.pack
 mod_lookup_key://6e3fe0f08f08a39e4ca80bdd3537675e@steam_workshop:1142710/2859968660@1779541514/!b_mixer.pack
 mod_lookup_key://5db20afc41dc7fc0c77f35286e2d8fc8@steam_workshop:1142710/2927955021@1767925330/groovy_mct.pack
+mod_lookup_key://b793e72db72c8122342c9c21b11a6010@steam_workshop:1142710/3255861822@1779533097/!!!!Chop_Menubar_Chopped.pack
 mod_lookup_key://a833c11e7aad34ccb1a5d5b900ff289f@steam_workshop:1142710/3157105199@1779377661/!!!!!!TLA_warband_twui.pack
 mod_lookup_key://aa67d7dc8e855abe5361b00d75651c78@steam_workshop:1142710/3631989922@1766996785/warband_tgr.pack
 mod_lookup_key://f685571a69cff67c70a8f7963f83e505@steam_workshop:1142710/3432354032@1767413207/!!Pinkbee_DEER24_WWD_WUH_TLA_warband.pack
@@ -111,9 +112,9 @@ mod_lookup_key://2876cc83a5476413c4c5efeee8cd3ae7@steam_workshop:1142710/2926707
 mod_lookup_key://6a209c5fd340604aa420ad9545a20678@steam_workshop:1142710/3732676716@1780274593/wyccc_cathay_celecourt.pack
 mod_lookup_key://2053f7be27deb257fbf02702d56e7553@steam_workshop:1142710/3727513610@1779799794/wyccc_cathay_compass.pack
 mod_lookup_key://04a8a4c8434590dbc23964a995d85d50@steam_workshop:1142710/3723969862@1780809881/wyccc_cathay_school.pack
+mod_lookup_key://d15e6077b015d531c1e39403711af1b4@steam_workshop:1142710/2986804665@1779422341/DEER24_WWD_LL.pack
 mod_lookup_key://0473fedf9e0e4085a5ce6cfa3d8a21cc@steam_workshop:1142710/2792731173@1780940112/sfo_grimhammer_3_main.pack
 mod_lookup_key://2c988efd834517152189a85d55df1a9a@steam_workshop:1142710/3484200772@1780410441/The Gunpowder Road2.0.pack
-mod_lookup_key://9ba023243854f10ef6e9140d85c173c9@steam_workshop:1142710/2789903784@1780847854/DEER24Cathay.pack
-mod_lookup_key://d15e6077b015d531c1e39403711af1b4@steam_workshop:1142710/2986804665@1779422341/DEER24_WWD_LL.pack
 mod_lookup_key://8b37f01ac61525b73f6a4a81500eebe4@steam_workshop:1142710/3297754796@1779993051/@whc_cth_unit_wuh_7.pack
+mod_lookup_key://9ba023243854f10ef6e9140d85c173c9@steam_workshop:1142710/2789903784@1780847854/DEER24Cathay.pack
 mod_lookup_key://4ebf1f4c74fece5a9cb44fd6998f5f01@steam_workshop:1142710/3440143038@1780737246/Random_Legendary_Heroes_Arthas.pack
